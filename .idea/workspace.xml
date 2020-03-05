@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5ea93be-1daa-4896-b662-41f4f61e9967" name="Default Changelist" comment="" />
+    <list default="true" id="a5ea93be-1daa-4896-b662-41f4f61e9967" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MIT2020/META-INF/MIT2020.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MIT2020/META-INF/MIT2020.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MIT2020/loops/Lesson1Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MIT2020/loops/Lesson1Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops/Lesson1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/Lesson1.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +24,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2bqR9Z29KOOz9VN20VMzclHLNuQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,7 +40,20 @@
       <recent name="$PROJECT_DIR$/src/lesson1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.loops.Lesson1Kt">
+  <component name="RunManager" selected="Kotlin.conditions.Lesson1Kt">
+    <configuration name="arrays.Lesson1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="MIT2020" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="arrays.Lesson1Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="conditions.Lesson1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="MIT2020" />
       <option name="VM_PARAMETERS" />
@@ -42,6 +62,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="conditions.Lesson1Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fuctions.Lesson1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="MIT2020" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="fuctions.Lesson1Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,8 +108,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.loops.Lesson1Kt" />
         <item itemvalue="Kotlin.conditions.Lesson1Kt" />
+        <item itemvalue="Kotlin.fuctions.Lesson1Kt" />
+        <item itemvalue="Kotlin.arrays.Lesson1Kt" />
+        <item itemvalue="Kotlin.loops.Lesson1Kt" />
         <item itemvalue="Kotlin.operators.lesson1.Lesson_1Kt" />
       </list>
     </recent_temporary>
@@ -105,7 +140,9 @@
       <updated>1706940475435</updated>
       <workItem from="1706940489945" duration="1701000" />
       <workItem from="1580712413624" duration="1440000" />
-      <workItem from="1580802178855" duration="2239000" />
+      <workItem from="1580802178855" duration="3149000" />
+      <workItem from="1583302996417" duration="2255000" />
+      <workItem from="1583390557673" duration="8237000" />
     </task>
     <servers />
   </component>
@@ -113,25 +150,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="978" height="176" key="GridCell.Tab.0.bottom" timestamp="1580804364481">
+    <state width="978" height="176" key="GridCell.Tab.0.bottom" timestamp="1583398857397">
       <screen x="0" y="0" width="1024" height="741" />
     </state>
-    <state width="978" height="176" key="GridCell.Tab.0.bottom/0.0.1024.741@0.0.1024.741" timestamp="1580804364481" />
-    <state width="978" height="176" key="GridCell.Tab.0.center" timestamp="1580804364480">
+    <state width="978" height="176" key="GridCell.Tab.0.bottom/0.0.1024.741@0.0.1024.741" timestamp="1583398857397" />
+    <state width="978" height="176" key="GridCell.Tab.0.center" timestamp="1583398857396">
       <screen x="0" y="0" width="1024" height="741" />
     </state>
-    <state width="978" height="176" key="GridCell.Tab.0.center/0.0.1024.741@0.0.1024.741" timestamp="1580804364480" />
-    <state width="978" height="176" key="GridCell.Tab.0.left" timestamp="1580804364480">
+    <state width="978" height="176" key="GridCell.Tab.0.center/0.0.1024.741@0.0.1024.741" timestamp="1583398857396" />
+    <state width="978" height="176" key="GridCell.Tab.0.left" timestamp="1583398857396">
       <screen x="0" y="0" width="1024" height="741" />
     </state>
-    <state width="978" height="176" key="GridCell.Tab.0.left/0.0.1024.741@0.0.1024.741" timestamp="1580804364480" />
-    <state width="978" height="176" key="GridCell.Tab.0.right" timestamp="1580804364480">
+    <state width="978" height="176" key="GridCell.Tab.0.left/0.0.1024.741@0.0.1024.741" timestamp="1583398857396" />
+    <state width="978" height="176" key="GridCell.Tab.0.right" timestamp="1583398857397">
       <screen x="0" y="0" width="1024" height="741" />
     </state>
-    <state width="978" height="176" key="GridCell.Tab.0.right/0.0.1024.741@0.0.1024.741" timestamp="1580804364480" />
-    <state x="205" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1580802179684">
+    <state width="978" height="176" key="GridCell.Tab.0.right/0.0.1024.741@0.0.1024.741" timestamp="1583398857397" />
+    <state x="205" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1583390557788">
       <screen x="0" y="0" width="1024" height="741" />
     </state>
-    <state x="205" y="198" key="com.intellij.ide.util.TipDialog/0.0.1024.741@0.0.1024.741" timestamp="1580802179684" />
+    <state x="205" y="198" key="com.intellij.ide.util.TipDialog/0.0.1024.741@0.0.1024.741" timestamp="1583390557788" />
   </component>
 </project>
